@@ -27,7 +27,7 @@ const About = () => {
 
                 <div className='max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8'>
                     <div className='sm:text-right text-4xl font-bold' data-aos='fade-right' data-aos-duration='1000'>
-                        <p>Hi,  I am <span className='text-[#C23B22]'>KRITH</span> Please take a look of my Projects,Or Read My Blogs <span className='text-[#C23B22]'></span>.</p>
+                        <p>Hi, I am <span className='text-[#C23B22]'>KRITH</span> Please take a look of my Projects,Or Read My Blogs <span className='text-[#C23B22]'></span>.</p>
                     </div>
                     <div data-aos='fade-up' data-aos-duration='1000'>
                         <p>
