@@ -32,7 +32,7 @@ const About = () => {
                     <div data-aos='fade-up' data-aos-duration='1000'>
                         <p>
                     
-                            I'm a software developer with a strong foundation in Java and Data Structures & Algorithms, and an active contributor in tech communities like IEEE and DevComm. I’ve led teams in national hackathons (IIT Delhi, IIIT Delhi) and conducted technical sessions as an instructor. I enjoy building efficient backend systems and learning new tools to solve meaningful problems. Always open to collaboration and excited about what technology can build next! 🚀
+                            I am a software developer with a strong foundation in Java and Data Structures & Algorithms, and an active contributor in tech communities like IEEE and DevComm. I’ve led teams in national hackathons (IIT Delhi, IIIT Delhi) and conducted technical sessions as an instructor. I enjoy building efficient backend systems and learning new tools to solve meaningful problems. Always open to collaboration and excited about what technology can build next! 🚀
                         </p>
                     </div>
 
