@@ -12,7 +12,7 @@ export default function HeroScrollDemo() {
               <h1 className="text-4xl font-semibold text-black dark:text-white">
                 I m Btech-3rd year Undergrad<br />
                 <span className="text-4xl text-red-600 md:text-[6rem] font-bold mt-1 leading-none">
-                  Krith Thakkar
+                  Krith Thakker
                 </span>
               </h1>
             </>
